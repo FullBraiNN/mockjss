@@ -1,18 +1,14 @@
-[
-    {
-        "id": 1,
-        "imgUrl": "https://github.com/FullBraiNN/mockjss/blob/main/apple.png"
-    },
-    {
-        "id": 2,
-        "imgUrl": "https://github.com/FullBraiNN/mockjss/blob/main/apple.png"
-    },
-    {
-        "id": 3,
-        "imgUrl": "https://github.com/FullBraiNN/mockjss/blob/main/apple.png"
-    },
-    {
-        "id": 4,
-        "imgUrl": "https://github.com/FullBraiNN/mockjss/blob/main/apple.png"
-    },
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
