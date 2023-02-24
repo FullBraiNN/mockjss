@@ -2,19 +2,31 @@
   "photos": [
     {
       "id": 1,
-      "imgurl": "https://www.creativefabrica.com/wp-content/uploads/2018/10/Fashion-Poster-by-TMint.jpg"
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/352c3286eeccdd5abd896d57d88ce9e6c8912ebd_1672863263.jpg?x-oss-process=image/quality,q_95"
     },
     {
       "id": 2,
-      "imgurl": "https://www.creativefabrica.com/wp-content/uploads/2021/07/29/Instagram-Stories-Template-Fashion-Graphics-15251399-2-580x387.png"
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3738c2e261c0a59f3b2f45885d5060799aa0f962_1671521502.gif?x-oss-process=image"
     },
     {
       "id": 3,
-      "imgurl": "https://img.freepik.com/premium-vector/spring-fashion-sale-banner-design-template_2239-1180.jpg"
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/9af27b48110121c5fa0f8702db11a435183b09d3_1671025264.jpg?x-oss-process=image/quality,q_95"
     },
     {
       "id": 4,
-      "imgurl": "https://hulaglobal.com/wp-content/uploads/2022/01/Trending-Fashion-News.jpg"
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/87a03148897cdbef8342cb3a379c04be289cd6ca_1671022696.jpg?x-oss-process=image/quality,q_95"
     },
+    {
+      "id": 5,
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/8db93400f7e608c8934cf208fefbe5f5d3053e6f_1672862881.jpg?x-oss-process=image/quality,q_95"
+    },
+    {
+      "id": 6,
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/1e17e5e5792df2bac3e50fc26f03e7f720d5c656_1672866944.jpg?x-oss-process=image/quality,q_95"
+    },
+    {
+      "id": 7,
+      "imgurl": "https://dkstatics-public.digikala.com/digikala-adservice-banners/d6169eeb8b40367a18989832ba244bfb26ee127f_1673164182.jpg?x-oss-process=image/quality,q_95"
+    }
   ]
 }
